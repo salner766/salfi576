@@ -1,0 +1,33 @@
+{
+  "basics":{
+    "photo":"img.png",
+    "name":"salfi ahmed",
+    "email":"salfiahmed999@gmail.com",
+    "mobile":"9133775426"
+  },
+  "education":[
+    {
+      "course":"B.tech(Computer science and engineering)",
+      "Institution":[
+        "g pullaiah college of engineering",
+        "2015-2019",
+        "70"
+      ]
+    },
+    {
+      "course":"Intermediate(M.P.C)",
+      "Institution":[
+        "sri chaitanya junior college",
+        "2013-2015",
+        "70"
+      ]
+    },
+    {
+      "course":"SSC",
+      "Institution":[
+        "sri lakshmi high school",
+        "70"
+      ]
+    }
+  ]
+}

@@ -29,5 +29,20 @@
         "70"
       ]
     }
+  ],
+  "skills":[
+    {
+      "name":"web technologies",
+      "value":"HTML,CSS"
+    },
+    {
+      "name":"operating system",
+      "value":"Linux,Windows"
+    },
+    {
+      "name":"Programming Languages",
+      "value":"c,c++,java"
+    }
   ]
+
 }

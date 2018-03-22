@@ -8,7 +8,9 @@
   border:2px solid #c45e45;
   margin: 5px 5px 5px 5px;
   padding: 5px;
-  background-color: #999;
+  background-color: #555;
+  background-image: url("images 3.jpg");
+  background-repeat: no-repeat;
 }
 .left img{
   width:50%;
@@ -17,16 +19,18 @@ border: 2px solid #000;
 }
 .right{
   width:70%;
-  border :5px solid #000;
+  border :5px solid #fff;
   margin: 3px;
   padding:5px;
   background-color: #666;
+  background-image: url("images.jpg");
+  background-repeat: no-repeat;
 }
 #name {
   color: #000;
 }
 h1{
-  color: #fff;
+  color: #000;
 }
 h1: hover{
   color:#000;
@@ -75,4 +79,8 @@ h2{
   h2{
     color:#fff;
   }
+}
+table,td{
+  border: 1px solid blue;
+  border-style: inset;
 }
